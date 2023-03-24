@@ -4,8 +4,9 @@ This is a Flutter App that displays a list of food items and their prices. The a
 
 ## Screenshots
 
-<img src='./readme/home.PNG' width='200px' alt='Home Page' />
-<img src='./readme/item_details.PNG' width='200px' alt='Details Page' />
+|                                                               |                                                                          |
+| :-----------------------------------------------------------: | :----------------------------------------------------------------------: |
+| <img src='./readme/home.PNG' width='200px' alt='Home Page' /> | <img src='./readme/item_details.PNG' width='200px' alt='Details Page' /> |
 
 ## How to run the app
 
